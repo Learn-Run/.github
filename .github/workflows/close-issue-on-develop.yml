@@ -1,8 +1,7 @@
 name: 🔒 Close Issues on Develop PR Merge
 
 on:
-  pull_request:
-    types: [closed]
+  workflow_call:  # <<<<<<<< 이 줄이 꼭 있어야 함!
 
 jobs:
   close-issues:
