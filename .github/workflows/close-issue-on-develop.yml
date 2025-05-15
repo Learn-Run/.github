@@ -1,7 +1,7 @@
 name: 🔒 Close Issues on Develop PR Merge
 
 on:
-  workflow_call:  # <<<<<<<< 이 줄이 꼭 있어야 함!
+  workflow_call: 
 
 jobs:
   close-issues:
