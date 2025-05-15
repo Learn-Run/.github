@@ -9,6 +9,7 @@
 - [ ] 📝 Documentation Update (문서 수정)
 - [ ] 🚀 Performance Improvement (성능 개선)
 - [ ] ⚡ ETC (기타 - 이곳에 작성해주세요)
+- [ ] ⏳ test (테스트)
 
 # 🔗 Related Issue
 
