@@ -259,24 +259,33 @@
 ### 📸 주요 화면
 
 #### 🏠 메인 화면
-
-- 프로젝트 메인 화면 스크린샷 추가 예정
+<img src="https://github.com/user-attachments/assets/1cde075c-e5aa-449c-b6dc-71746897128b" width="400px" height="auto" />
 
 #### 👤 사용자 인증
-
-- 로그인/회원가입 화면 스크린샷 추가 예정
+![회원가입](https://github.com/user-attachments/assets/53b313cc-c992-4a78-8692-aca4f772b5f3)
 
 #### 📝 게시글 관리
+|![질문 목록](https://github.com/user-attachments/assets/8f9ad5dc-4992-44d7-83c9-b9758500fa60)|![질문 상세 화면](https://github.com/user-attachments/assets/3f4b06af-ca78-439e-b0d4-b5c7181f90ac)|![검색](https://github.com/user-attachments/assets/469f8b28-1927-4af0-b148-7de8229712eb)|
+|:--:|:--:|:--:|
+|질문 목록|질문 상세|검색|
 
-- 게시글 작성/수정/삭제 화면 스크린샷 추가 예정
+|![질문 생성](https://github.com/user-attachments/assets/532fa93d-0db9-4530-912f-71f8bd9428cd)|![질문 수정](https://github.com/user-attachments/assets/0270a9f9-203d-4f21-9965-df6f282b58cf)|![질문 삭제](https://github.com/user-attachments/assets/e579e413-f659-4650-9cc0-99e85fdf8d82)|
+|:--:|:--:|:--:|
+|질문 생성|질문 수정|질문 삭제|
+
+
+|![댓글 생성](https://github.com/user-attachments/assets/ecd91a40-329b-49cd-bce0-06c56ef9243d)|![댓글 수정](https://github.com/user-attachments/assets/c216a874-dddd-42b1-a32d-8307f412b00e)|![댓글 삭제](https://github.com/user-attachments/assets/9bba39bc-46f4-4370-8dbe-64b19a14b909)|
+|:--:|:--:|:--:|
+|댓글 생성|댓글 수정|댓글 삭제|
 
 #### 👤 프로필
-
-- 프로필 화면 gif 추가예정
+![프로필 생성 gif](https://github.com/user-attachments/assets/449e362f-e111-4b6e-a871-34e19b8abc01)
 
 #### 💬 채팅 서비스
+![채팅 기능](https://github.com/user-attachments/assets/80fdd8e7-2ea5-43c2-8e93-5ed4178e24bb)
 
-- 실시간 채팅 화면 스크린샷 추가 예정
+#### 결제
+![결제](https://github.com/user-attachments/assets/6d7899ca-ca6c-4c29-935d-da81c487633a)
 
 &nbsp;
 
