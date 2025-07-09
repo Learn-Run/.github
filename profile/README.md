@@ -401,57 +401,6 @@ turbo dev --filter nextjs
 
 &nbsp;
 
-## 🎯 주요 기능
-
-### 🏗️ 모노레포 아키텍처
-
-- **Turborepo**: 빌드 캐싱과 병렬 실행으로 빠른 개발
-- **Workspace**: 패키지 간 효율적인 의존성 관리
-- **Shared Packages**: UI 컴포넌트와 설정의 재사용
-- **Incremental Builds**: 변경된 부분만 빌드하여 개발 속도 향상
-- **Remote Caching**: 팀원 간 빌드 결과 공유
-
-### 🎨 현대적인 UI 시스템
-
-- **Shadcn/ui**: 접근성과 커스터마이징이 뛰어난 컴포넌트
-- **Tailwind CSS v4**: 최신 기능과 향상된 성능
-- **Dark Mode**: 자동 다크모드 지원 및 테마 전환
-- **Responsive Design**: 모든 디바이스에서 완벽한 경험
-- **Component Library**: 재사용 가능한 UI 컴포넌트 모음
-- **Custom Themes**: 브랜드에 맞는 테마 커스터마이징
-
-### ⚡ 개발자 경험
-
-- **Hot Reload**: 실시간 코드 변경 반영
-- **Type Safety**: TypeScript를 통한 런타임 에러 방지
-- **Code Quality**: ESLint와 Prettier를 통한 일관된 코드 스타일
-- **Git Hooks**: 커밋 전 자동 코드 검사
-- **VS Code Integration**: 자동 완성 및 린팅 지원
-
-### 🚀 프로덕션 준비 기능
-
-- **Optimized Builds**: 자동 코드 분할 및 최적화
-- **SEO Ready**: 메타데이터 및 구조화된 데이터 지원
-- **Performance Monitoring**: Core Web Vitals 최적화
-- **Accessibility**: WCAG 2.1 AA 준수 컴포넌트
-- **Internationalization**: 다국어 지원 준비
-
-### 🔧 개발 도구
-
-- **Component Generator**: Shadcn/ui CLI를 통한 컴포넌트 자동 생성
-- **Storybook Integration**: 컴포넌트 문서화 및 테스트
-- **Testing Setup**: Jest, React Testing Library 설정
-- **Docker Support**: 컨테이너화 및 배포 준비
-- **CI/CD Ready**: GitHub Actions 워크플로우 포함
-
-### 📱 반응형 및 접근성
-
-- **Mobile First**: 모바일 우선 디자인
-- **Touch Friendly**: 터치 인터페이스 최적화
-- **Screen Reader**: 스크린 리더 지원
-- **Keyboard Navigation**: 키보드 네비게이션 지원
-- **High Contrast**: 고대비 모드 지원
-
 &nbsp;
 
 ## 🛠 개발 가이드
